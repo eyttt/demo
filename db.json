@@ -4,11 +4,8 @@
     { "jobId": 2, "legalEntityId": 2, "taxPeriodId": 1 },
     { "jobId": 3, "legalEntityId": 3, "taxPeriodId": 2 }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "legalEntity": [
+    { "legalEntityId": 1, "legalEntityName": "Fake Entity 1", "legalEntityShortName": "Fakie 1" },
+    { "legalEntityId": 2, "legalEntityName": "Fake Entity 2", "legalEntityShortName": "Fakie 2"  }
+  ]
 }
